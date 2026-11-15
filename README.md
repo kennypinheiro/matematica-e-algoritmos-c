@@ -20,14 +20,16 @@ O objetivo deste projeto é construir uma ponte sólida entre a abstração mate
 A organização do código reflete os módulos de estudo teóricos e práticos:
 
 ```text
-.
-├── src/                    # Código-fonte em C organizados por tópicos
-│   ├── combinatoria/       # Permutações, combinações, partições
-│   ├── teoria_dos_grafos/  # Representação, buscas (BFS/DFS), caminhos mínimos
-│   ├── logica/             # Tabelas-verdade, equivalências, álgebras booleanas
-│   └── aritmetica/         # Divisibilidade, MDC, MMC, aritmética modular
-├── include/                # Cabeçalhos (.h) com definições de estruturas e protótipos
-├── tests/                  # Casos de teste e validações dos algoritmos
-├── docs/                   # Notas de estudo, referências e arquivos LaTeX
-├── Makefile                # Automação de compilação
+├── 00_numeros_naturais/        # Divisibilidade, MDC, MMC, aritmética modular
+
+├── 01_logica_proposicional/    # Tabelas-verdade, equivalências, álgebras booleanas
+
+├── 02_conjuntos_e_relacoes/    # Operações entre conjuntos, propriedades de relações
+
+├── 03_combinatoria/            # Permutações, arranjos, combinações e partições
+
+├── 04_teoria_dos_grafos/       # Representação computacional, buscas (BFS/DFS), caminhos
+
+├── .gitignore
+├── LICENSE
 └── README.md
