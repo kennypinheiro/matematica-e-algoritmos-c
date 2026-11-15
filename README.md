@@ -20,16 +20,25 @@ O objetivo deste projeto é construir uma ponte sólida entre a abstração mate
 A organização do código reflete os módulos de estudo teóricos e práticos:
 
 ```text
-├── 00_numeros_naturais/        # Divisibilidade, MDC, MMC, aritmética modular
+├── 00_numeros_naturais/        
+│   ├── README.md               
+│   ├── code.c        
+│   └── Makefile 
+├── 01_logica_proposicional/    
+│   ├── README.md               
+│   ├── code.c        
+│   └── Makefile 
+├── 02_conjuntos_e_relacoes/    
+│   ├── README.md               
+│   ├── code.c        
+│   └── Makefile 
+├── 03_combinatoria/            
+│   ├── README.md               
+│   ├── code.c        
+│   └── Makefile 
+├── 04_teoria_dos_grafos/
+│   ├── README.md               
+│   ├── code.c        
+│   └── Makefile 
 
-├── 01_logica_proposicional/    # Tabelas-verdade, equivalências, álgebras booleanas
-
-├── 02_conjuntos_e_relacoes/    # Operações entre conjuntos, propriedades de relações
-
-├── 03_combinatoria/            # Permutações, arranjos, combinações e partições
-
-├── 04_teoria_dos_grafos/       # Representação computacional, buscas (BFS/DFS), caminhos
-
-├── .gitignore
-├── LICENSE
 └── README.md
