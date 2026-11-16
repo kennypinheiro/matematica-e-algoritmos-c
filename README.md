@@ -76,3 +76,7 @@ A organização do código reflete os módulos de estudo teóricos e práticos:
 │   └── Makefile 
 
 └── README.md
+
+
+
+> *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
