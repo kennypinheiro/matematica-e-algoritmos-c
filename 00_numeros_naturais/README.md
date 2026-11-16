@@ -13,6 +13,7 @@ De modo geral, qualquer quantidade pode ser representada utilizando um conjunto 
 1.1 A representação dos inteiros.
 
 Utilizado como exemplo o número 372, podemos expressá-lo da seguinte forma:
-$ 300 + 70 + 2 = 3 \times 10^2 + 7 \times 10 + 2 $
+$300 + 70 + 2 = 3 \times 10^2 + 7 \times 10 + 2$
 
-
+**Referência Bibliográfica**
+* COURANT, Richard; ROBBINS, Herbert. O que é matemática?: uma abordagem elementar de métodos e conceitos. Tradução de Adalberto da Silva Brito. Rio de Janeiro: Ciência Moderna, 2000.

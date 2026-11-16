@@ -49,7 +49,7 @@ Obs_3: O número $1$ não é nem primo e nem composto. Ele é chamado **unidade*
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório (Em construção...)
 
 A organização do código reflete os módulos de estudo teóricos e práticos:
 
