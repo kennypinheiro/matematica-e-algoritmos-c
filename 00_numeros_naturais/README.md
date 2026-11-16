@@ -14,13 +14,17 @@ De modo geral, qualquer quantidade pode ser representada utilizando um conjunto 
 1.1 A representação dos inteiros.
 
 Utilizando como exemplo o número 372, podemos expressá-lo da seguinte forma:
+
 $$
 300 + 70 + 2 = 3 \times 10^2 + 7 \times 10^1 + 2 \times 10^0
 $$
+
 Deste modo, a regra para expressar um número inteiro com 4 algarismos seria:
+
 $$
 $z = a \times 10^3 + b \times 10^2 + c \times 10^1 + d \times 10^0
 $$
+
 Onde os algarismos $a$, $b$, $c$ e $d$ são também chamados de coeficientes e correspondem aos inteiros de zero a nove. Nota-se ainda, que os coeficientes correspondem aos restos da divisão sucessiva com a base numérica aplicada. Nesse caso, a base numérica é o $10$ (Sistema de Numeração Decimal). 
 
 | Passo | Divisão | Quociente | Resto (Coeficiente) | Potência de 10 |
@@ -30,6 +34,7 @@ Onde os algarismos $a$, $b$, $c$ e $d$ são também chamados de coeficientes e c
 | 3 | $\frac{3}{10}$ | $0$ | **$3$** | $10^2$ (Centena) |
 
 Assim, o método geral para representar um inteiro $z$ no sistema decimal consiste em expressar $z$ na forma:
+
 $$
 z = a_n \times 10^n + a_n-1 \times 10^n-1 + ... + a_1 \times 10^1 + a_0 \times 10^0
 $$
