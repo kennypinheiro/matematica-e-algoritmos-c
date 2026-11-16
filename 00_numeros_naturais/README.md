@@ -1,4 +1,4 @@
-##:abacus: A Representação Numérica
+## 🧮 A Representação Numérica
 
 Os números formam a base da matemática moderna. Mas, afinal, o que é um número? 
 
@@ -35,8 +35,10 @@ Onde os algarismos $a$, $b$, $c$ e $d$ são também chamados de coeficientes e c
 | 2 | $\frac{37}{10}$ | $3$ | **$7$** | $10^1$ (Dezena) |
 | 3 | $\frac{3}{10}$ | $0$ | **$3$** | $10^2$ (Centena) |
 
-* Este método para obter os coeficientes em uma dada base numérica foi implementado em um código na linguagem C. Os arquivos estão localizados neste diretório e estão nomeados como:
+Este método para obter os coeficientes em uma dada base numérica foi implementado em um código na linguagem C. Os arquivos estão localizados neste diretório e estão nomeados como:
+
 **convert_while.c**
+
 **convert_for.c**
 
 Assim, o método geral para representar um inteiro $z$ no sistema decimal consiste em expressar $z$ na forma:
