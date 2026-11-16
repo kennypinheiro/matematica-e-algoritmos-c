@@ -49,3 +49,5 @@ $$
 
 **Referência Bibliográfica**
 * COURANT, Richard; ROBBINS, Herbert. O que é matemática?: uma abordagem elementar de métodos e conceitos. Tradução de Adalberto da Silva Brito. Rio de Janeiro: Ciência Moderna, 2000.
+
+> *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
