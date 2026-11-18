@@ -38,10 +38,6 @@ Obs_2: Todo inteiro positivo pode ser decomposto de maneira única em fatores pr
 Obs_3: O número $1$ não é nem primo e nem composto. Ele é chamado **unidade**.
 
 
-## 📚 Referência Bibliográfica
-
-* SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. 1. ed. São Paulo: Pioneira Thomson Learning, 2003. 532 p. ISBN 85-221-0291-0.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -82,5 +78,11 @@ A organização do código reflete os módulos de estudo teóricos e práticos:
 └── README.md
 
 ```
+
+---
+
+## 📚 Referência Bibliográfica
+
+* SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. 1. ed. São Paulo: Pioneira Thomson Learning, 2003. 532 p. ISBN 85-221-0291-0.
 
 > *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
