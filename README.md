@@ -30,11 +30,15 @@ Um inteiro $p$ é primo se $p > 1$ e se os únicos divisores positivos de $p$ s�
 * Definição 1.5 - COMPOSTO:
 Um número positivo $a$ é chamado composto se existe um inteiro $b$ tal que $1 < b < a$ e $b | a$.
 
+* Definição 1.6 - PERFEITO:
+Um número inteiro $n$ é chamado perfeito se é igual a soma de todos os seus divisores que são simultaneamente positivos e inferiores a $n$.
+
 Obs_1: A definição 1.3 não afirma que um inteiro é ímpar desde que não seja par. -Este é um fato que pode ser provado.
 Obs_2: Todo inteiro positivo pode ser decomposto de maneira única em fatores primos. Ex: $12 = 2 \times 2 \times 3$. 
 Obs_3: O número $1$ não é nem primo e nem composto. Ele é chamado **unidade**.
 
-**Referência Bibliográfica**
+
+## 📚 Referência Bibliográfica
 
 * SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. 1. ed. São Paulo: Pioneira Thomson Learning, 2003. 532 p. ISBN 85-221-0291-0.
 

@@ -47,7 +47,8 @@ $$
 z = a_n \times 10^n + a_n-1 \times 10^n-1 + ... + a_1 \times 10^1 + a_0 \times 10^0
 $$
 
-**Referência Bibliográfica**
+## 📚 Referência Bibliográfica
+
 * COURANT, Richard; ROBBINS, Herbert. O que é matemática?: uma abordagem elementar de métodos e conceitos. Tradução de Adalberto da Silva Brito. Rio de Janeiro: Ciência Moderna, 2000.
 
 > *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
