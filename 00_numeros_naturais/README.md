@@ -37,9 +37,9 @@ Onde os algarismos $a$, $b$, $c$ e $d$ são também chamados de coeficientes e c
 
 Este método para obter os coeficientes em uma dada base numérica foi implementado em um código na linguagem C. Os arquivos estão localizados neste diretório e estão nomeados como:
 
-**convert_while.c**
+💾 **convert_while.c**
 
-**convert_for.c**
+💾 **convert_for.c**
 
 Assim, o método geral para representar um inteiro $z$ no sistema decimal consiste em expressar $z$ na forma:
 
