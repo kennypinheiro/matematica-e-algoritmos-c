@@ -1,10 +1,10 @@
-# Matemática & Algoritmos: Lógica Discreta e Implementações em C
+# 🔢 Matemática & Algoritmos: Lógica Discreta e Implementações em C
 
 Repositório dedicado ao estudo aprofundado de conceitos fundamentais da **Matemática Discreta** e da **Ciência da Computação Teórica**, traduzidos em implementações práticas, limpas e eficientes na linguagem **C**.
 
 O objetivo deste projeto é construir uma ponte sólida entre a abstração matemática e a engenharia de software de baixo nível, explorando estruturas de dados, algoritmos e demonstrações lógicas sob uma perspectiva rigorosa.
 
----
+
 
 ## :abacus: Os alicerces da matemática
 
@@ -38,7 +38,7 @@ Obs_2: Todo inteiro positivo pode ser decomposto de maneira única em fatores pr
 Obs_3: O número $1$ não é nem primo e nem composto. Ele é chamado **unidade**.
 
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -47,7 +47,7 @@ Obs_3: O número $1$ não é nem primo e nem composto. Ele é chamado **unidade*
 * **Ferramentas de Apoio:** Make, Git, VS Code
 * **Documentação Teórica:** LaTeX (para anotações e demonstrações formais)
 
----
+
 
 ## 📂 Estrutura do Repositório (Em construção...)
 
@@ -79,7 +79,7 @@ A organização do código reflete os módulos de estudo teóricos e práticos:
 
 ```
 
----
+
 
 ## 📚 Referência Bibliográfica
 
