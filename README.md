@@ -75,6 +75,7 @@ Exemplo: Se $x$ e $y$ são pares, então $x + y$ também é par.
 
 A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar em um número par, ainda que $x$ ou $y$ não o sejam. Com efeito, caso $x$ e $y$ sejam ambos ímpares, verifica-se que $x + y$ é par.
 
+<br>
 
 | Condição A | Condição B | SE A, ENTÃO B | 
 | :--- | :--- | :--- |
@@ -83,7 +84,7 @@ A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar
 | Falsa | Verdadeira | Possível |
 | Falsa | Falsa | Possível |
 
-
+<br>
 
 * **Se e somente se**
 
@@ -97,6 +98,7 @@ A afirmação "se e somente se" significa que: **a condição A só pode ser ver
 
 > A é equivalente a B (A <=> B). A é necessário e suficiente para B
 
+<br>
 
 | Condição A | Condição B | SE E SOMENTE SE | 
 | :--- | :--- | :--- |
@@ -105,6 +107,7 @@ A afirmação "se e somente se" significa que: **a condição A só pode ser ver
 | Falsa | Verdadeira | Impossível |
 | Falsa | Falsa | Possível |
 
+<br>
 
 * **Uso matemático de 'E'**
 
@@ -112,7 +115,7 @@ A afirmação "A e B" significa que ambas as afimrações A e B são verdadeiras
 
 Exemplo: Todo inteiro cujo algarismos das unidades é 0 é divisível por 2 **e** por 5.
 
-
+<br>
 
 | Condição A | Condição B | ---- E ---- | 
 | :--- | :--- | :--- |
@@ -121,7 +124,7 @@ Exemplo: Todo inteiro cujo algarismos das unidades é 0 é divisível por 2 **e*
 | Falsa | Verdadeira | Falsa |
 | Falsa | Falsa | Falsa |
 
-
+<br>
 
 * **Uso matemático de 'NÃO'**
 
@@ -132,20 +135,20 @@ Exemplo:
 - Todos os primos são ímpares (FALSA).
 - Nem todos os primos são ímpares (VERDADEIRA).
 
-
+<br>
 
 | Condição A | ---- NÃO A ---- | 
 | :--- | :--- |
 | Verdadeira | Falsa |
 | Falsa | Verdadeira |
 
-
+<br>
 
 * **Uso matemático de 'OU'**
 
 A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou ambo, A e B, são verdadeiros.
 
-
+<br>
 
 | Condição A | Condição B | ---- OU ---- |
 | :--- | :--- | :--- |
@@ -154,7 +157,7 @@ A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou amb
 | Falsa | Verdadeira | Verdadeira |
 | Falsa | Falsa | Falsa |
 
-<p> </p>
+<br>
 
 * **Afirmação verdadeira por vacuidade**
 
