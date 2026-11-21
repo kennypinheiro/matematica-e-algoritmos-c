@@ -10,7 +10,8 @@ void convert_base(int number, int base){
         i++;
     }
 
-    //printf("%d ", number);
+     /*Loop para ler o array com os restos da divisão 
+    (Dígitos convertidos para o base numérica escolhido)*/
     for(int j = i - 1; j >= 0; j--){
         printf("%d ", arr[j]);
     }
@@ -20,8 +21,8 @@ void convert_base(int number, int base){
 
 int main(void){
     int n,b;
-    printf("Type a Decimal Number and a Base to convert it\n");
-    scanf("%d %d", &n, &b );
+    printf("Digite um número decimal e em seguida uma base numérica para conversão\n");
+    scanf("%d%d", &n, &b );
 
     convert_base(n, b);
     return 0;

@@ -39,7 +39,7 @@ Este método para obter os coeficientes em uma dada base numérica foi implement
 
 💾 **[convert_while.c](https://github.com/kennypinheiro/matematica-e-algoritmos-c/blob/main/00_numeros_naturais/convert_while.c)**
 
-💾 **convert_for.c**
+💾 **[convert_for.c](https://github.com/kennypinheiro/matematica-e-algoritmos-c/blob/main/00_numeros_naturais/convert_for.c)**
 
 Assim, o método geral para representar um inteiro $z$ no sistema decimal consiste em expressar $z$ na forma:
 
