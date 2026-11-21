@@ -73,9 +73,8 @@ A afirmação "Se A, então B" significa que: **sempre que condição A for verd
 
 Exemplo: Se $x$ e $y$ são pares, então $x + y$ também é par.
 
-A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar em um número par, ainda que $x$ ou $y$ não o sejam. Com efeito, caso $x$ e $y$ sejam ambos ímpares, verifica-se que $x + y$ é par.
+A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar em um número par, ainda que $x$ ou $y$ não o sejam. Com efeito, caso $x$ e $y$ sejam ambos ímpares, verifica-se que $x + y$ é par.\\
 
-\
 
 | CONDIÇÃO A | CONDIÇÃO B | SE A, ENTÃO B | 
 | :--- | :--- | :--- |
@@ -84,7 +83,7 @@ A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar
 | Falsa | Verdadeira | Possível |
 | Falsa | Falsa | Possível |
 
-\
+
 
 * **Se e somente se**
 
@@ -96,9 +95,8 @@ Exemplo: Um inteiro $x$ é par se e somente se $x + 1$ é ímpar.
 A afirmação "se e somente se" significa que: **a condição A só pode ser verdadeira se B também for verdadeira** 
 
 
-> A é equivalente a B (A <=> B). A é necessário e suficiente para B
+> A é equivalente a B (A <=> B). A é necessário e suficiente para B\\
 
-\
 
 | CONDIÇÃO A | CONDIÇÃO B | SE E SOMENTE SE | 
 | :--- | :--- | :--- |
