@@ -73,10 +73,10 @@ A afirmação "Se A, então B" significa que: **sempre que condição A for verd
 
 Exemplo: Se $x$ e $y$ são pares, então $x + y$ também é par.
 
-A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar em um número par, ainda que $x$ ou $y$ não o sejam. Com efeito, caso $x$ e $y$ sejam ambos ímpares, verifica-se que $x + y$ é par.\\
+A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar em um número par, ainda que $x$ ou $y$ não o sejam. Com efeito, caso $x$ e $y$ sejam ambos ímpares, verifica-se que $x + y$ é par.
 
 
-| CONDIÇÃO A | CONDIÇÃO B | SE A, ENTÃO B | 
+| Condição A | Condição B | SE A, ENTÃO B | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Possível |
 | Verdadeira | Falsa | Impossível |
@@ -95,17 +95,16 @@ Exemplo: Um inteiro $x$ é par se e somente se $x + 1$ é ímpar.
 A afirmação "se e somente se" significa que: **a condição A só pode ser verdadeira se B também for verdadeira** 
 
 
-> A é equivalente a B (A <=> B). A é necessário e suficiente para B\\
+> A é equivalente a B (A <=> B). A é necessário e suficiente para B
 
 
-| CONDIÇÃO A | CONDIÇÃO B | SE E SOMENTE SE | 
+| Condição A | Condição B | SE E SOMENTE SE | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Possível |
 | Verdadeira | Falsa | Impossível |
 | Falsa | Verdadeira | Impossível |
 | Falsa | Falsa | Possível |
 
-\
 
 * **Uso matemático de 'E'**
 
@@ -113,16 +112,16 @@ A afirmação "A e B" significa que ambas as afimrações A e B são verdadeiras
 
 Exemplo: Todo inteiro cujo algarismos das unidades é 0 é divisível por 2 **e** por 5.
 
-\
 
-| CONDIÇÃO A | CONDIÇÃO B | ---- E ---- | 
+
+| Condição A | Condição B | ---- E ---- | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Verdadeira |
 | Verdadeira | Falsa | Falsa |
 | Falsa | Verdadeira | Falsa |
 | Falsa | Falsa | Falsa |
 
-\
+
 
 * **Uso matemático de 'NÃO'**
 
@@ -133,29 +132,29 @@ Exemplo:
 - Todos os primos são ímpares (FALSA).
 - Nem todos os primos são ímpares (VERDADEIRA).
 
-\
 
-| CONDIÇÃO A | ---- NÃO A ---- | 
+
+| Condição A | ---- NÃO A ---- | 
 | :--- | :--- |
 | Verdadeira | Falsa |
 | Falsa | Verdadeira |
 
-\
+
 
 * **Uso matemático de 'OU'**
 
 A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou ambo, A e B, são verdadeiros.
 
-\
 
-| CONDIÇÃO A | CONDIÇÃO B | ---- OU ---- | 
+
+| Condição B | ---- OU ---- | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Verdadeira |
 | Verdadeira | Falsa | Verdadeira |
 | Falsa | Verdadeira | Verdadeira |
 | Falsa | Falsa | Falsa |
 
-\
+
 
 * **Afirmação verdadeira por vacuidade**
 
