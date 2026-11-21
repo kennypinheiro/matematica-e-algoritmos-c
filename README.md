@@ -42,7 +42,7 @@ Obs_2: Todo inteiro positivo pode ser decomposto de maneira única em fatores pr
 Obs_3: O número $1$ não é nem primo e nem composto. Ele é chamado **unidade**.
 
 
-## 1️⃣ Teorema
+## 2️⃣ Teorema
 
 É uma proposição (afirmação declarativa) matemática para a qual existe uma prova. Ou seja, pode ser demonstrada como verdadeira por meio do raciocínio lógico.
 
