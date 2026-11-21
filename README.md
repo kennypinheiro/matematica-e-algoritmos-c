@@ -154,7 +154,7 @@ A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou amb
 | Falsa | Verdadeira | Verdadeira |
 | Falsa | Falsa | Falsa |
 
-
+<p> </p>
 
 * **Afirmação verdadeira por vacuidade**
 
