@@ -61,6 +61,7 @@ Existem diferentes categorias de afirmações declarativas a saber:
 
 Por vezes, os matemáticos modificam determinadas palavras (nomes e adjetivos) e atribuem a estas palavras um novo significado (exemplo: 'ou') para que atenda a finalidades específicas.
 
+<br>
 
 * **Se - então**
 
