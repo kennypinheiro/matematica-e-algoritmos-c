@@ -86,7 +86,6 @@ A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar
 | Falsa | Falsa | Possível |
 
 <br>
-<br>
 
 * **Se e somente se**
 
@@ -110,7 +109,6 @@ A afirmação "se e somente se" significa que: **a condição A só pode ser ver
 | Falsa | Falsa | Possível |
 
 <br>
-<br>
 
 * **Uso matemático de 'E'**
 
@@ -127,7 +125,6 @@ Exemplo: Todo inteiro cujo algarismos das unidades é 0 é divisível por 2 **e*
 | Falsa | Verdadeira | Falsa |
 | Falsa | Falsa | Falsa |
 
-<br>
 <br>
 
 * **Uso matemático de 'NÃO'**
@@ -147,7 +144,6 @@ Exemplo:
 | Falsa | Verdadeira |
 
 <br>
-<br>
 
 * **Uso matemático de 'OU'**
 
@@ -162,7 +158,6 @@ A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou amb
 | Falsa | Verdadeira | Verdadeira |
 | Falsa | Falsa | Falsa |
 
-<br>
 <br>
 
 * **Afirmação verdadeira por vacuidade**
