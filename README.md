@@ -53,7 +53,9 @@ Existem diferentes categorias de afirmações declarativas a saber:
 * **Erros:** Afirmações falsas.
 * **Absurdos:** Afirmações cuja sentença não tem sentido.
 
+
 > A natureza da verdade: Em matemática, a palavra verdadeiro deve ser considerada como absoluta, incondicional e sem exceção.
+
 
 ### Linguagem matemática (Matematiquês)
 
@@ -65,13 +67,15 @@ Por vezes, os matemáticos modificam determinadas palavras (nomes e adjetivos) e
 Na afirmação "Se A, então B", A é chamado hipótese e B, conclusão. A maior parte dos teoremas pode ser enunciada da seguinte maneira: "se A, então B". Por exemplo, o teorema "A soma de dois números inteiros pares é par" pode ser reformulada como: "Se $x$ e $y$ são inteiros pares, então $x + y$ também é par".
 A afirmação "Se A, então B" significa que: **sempre que condição A for verdadeira, a condição B também será**.
 
+
 > A implica B (A => B). A é suficiente para B. B é necessário para A
+
 
 Exemplo: Se $x$ e $y$ são pares, então $x + y$ também é par.
 
 A proposição anterior não descarta a possibilidade de a soma $x + y$ resultar em um número par, ainda que $x$ ou $y$ não o sejam. Com efeito, caso $x$ e $y$ sejam ambos ímpares, verifica-se que $x + y$ é par.
 
-| CONDIÇÂO A | CONDIÇÂO B | SE A, ENTÂO B | 
+| CONDIÇÃO A | CONDIÇÃO B | SE A, ENTÃO B | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Possível |
 | Verdadeira | Falsa | Impossível |
@@ -88,9 +92,11 @@ Exemplo: Um inteiro $x$ é par se e somente se $x + 1$ é ímpar.
 
 A afirmação "se e somente se" significa que: **a condição A só pode ser verdadeira se B também for verdadeira** 
 
+
 > A é equivalente a B (A <=> B). A é necessário e suficiente para B
 
-| CONDIÇÂO A | CONDIÇÂO B | SE E SOMENTE SE | 
+
+| CONDIÇÃO A | CONDIÇÃO B | SE E SOMENTE SE | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Possível |
 | Verdadeira | Falsa | Impossível |
@@ -104,7 +110,8 @@ A afirmação "A e B" significa que ambas as afimrações A e B são verdadeiras
 
 Exemplo: Todo inteiro cujo algarismos das unidades é 0 é divisível por 2 **e** por 5.
 
-| CONDIÇÂO A | CONDIÇÂO B | ---- E ---- | 
+
+| CONDIÇÃO A | CONDIÇÃO B | ---- E ---- | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Verdadeira |
 | Verdadeira | Falsa | Falsa |
@@ -121,7 +128,8 @@ Exemplo:
 - Todos os primos são ímpares (FALSA).
 - Nem todos os primos são ímpares (VERDADEIRA).
 
-| CONDIÇÂO A | ---- NÃO A ---- | 
+
+| CONDIÇÃO A | ---- NÃO A ---- | 
 | :--- | :--- |
 | Verdadeira | Falsa |
 | Falsa | Verdadeira |
@@ -131,7 +139,8 @@ Exemplo:
 
 A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou ambo, A e B, são verdadeiros.
 
-| CONDIÇÂO A | CONDIÇÂO B | ---- OU ---- | 
+
+| CONDIÇÃO A | CONDIÇÃO B | ---- OU ---- | 
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Verdadeira |
 | Verdadeira | Falsa | Verdadeira |
