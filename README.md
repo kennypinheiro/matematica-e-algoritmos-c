@@ -170,6 +170,7 @@ Também conhecida como afirmação vazia. São afirmações do tipo "Se A, entã
 
 Exemplo: Se um inteiro é simultaneamente quadrado e primo, então é negativo.
 
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -178,7 +179,7 @@ Exemplo: Se um inteiro é simultaneamente quadrado e primo, então é negativo.
 * **Ferramentas de Apoio:** Make, Git, VS Code
 * **Documentação Teórica:** LaTeX (para anotações e demonstrações formais)
 
-
+<br>
 
 ## 📂 Estrutura do Repositório (Em construção...)
 
