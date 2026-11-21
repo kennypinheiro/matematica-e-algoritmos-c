@@ -147,7 +147,7 @@ A afirmação "A ou B" significa que A é verdadeiro, ou B é verdadeiro, ou amb
 
 
 
-| Condição B | ---- OU ---- | 
+| Condição A | Condição B | ---- OU ---- |
 | :--- | :--- | :--- |
 | Verdadeira | Verdadeira | Verdadeira |
 | Verdadeira | Falsa | Verdadeira |
